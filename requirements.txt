@@ -1,4 +1,4 @@
-anyio            ~=2.0.2
+anyio            ~=4.6.2.post1
 asyncio-rlock    ~=0.1.0
 asyncio-throttle ~=1.0.1
 ircstates        ~=0.13.0
